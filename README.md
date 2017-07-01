@@ -1,4 +1,4 @@
-This (Simple Battleship game which is basically a starting point to hopefully
+This simple Battleship game which is basically a starting point to hopefully
 end with a decent game! 
 
 Ideally would like to end up with a board and various different
