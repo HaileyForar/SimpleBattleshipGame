@@ -14,7 +14,7 @@ placed in the 5 blick array. Player guesses where the boat is and when all the b
 
 24/07/17
 
-Game now consist of a 7 x 7 grid (virtual) and 3 boats names "Destroyer, Cruiser and LightWeight". As before player guesses 
+Game now consist of a 7 x 7 grid (virtual) and 3 boats named "Destroyer, Cruiser and LightWeight". As before player guesses 
 until all boats have been hit and sunk, and a message at the end stating how well the player performed!
 
 Issues to work on:
