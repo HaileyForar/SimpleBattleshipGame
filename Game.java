@@ -109,7 +109,7 @@ public class Game {
 
         }
 
-        System.out.println(result); // will print "hit", "miss" or "kill" depsding on the out come of the above
+        System.out.println(result); // will print "hit", "miss" or "kill" depending on the outcome of the above
 
     }
 
